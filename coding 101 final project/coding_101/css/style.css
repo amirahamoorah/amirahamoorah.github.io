@@ -1,0 +1,29 @@
+body {
+  background-color: black;
+  color: #00ccff;
+}
+
+h1 {
+  color: #00ccff;
+  text-align: center;
+}
+
+h2 {
+  color: #00ccff;
+  text-decoration: underline;
+}
+
+h3 {
+  color: #00ccff;
+  text-decoration: underline;
+}
+
+li {
+  color: #00ccff;
+  text-indent: 2em;
+  list-style-type: none;
+}
+img.resize {
+  max-width: 30%;
+  max-height: 30%;
+}
